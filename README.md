@@ -40,4 +40,4 @@ A lo largo del proceso me he encontrado con diversos problemas.
 ![UI](./images/ui.png)
 
 Demo de uso:  
-![Demo](./images/videooExplicativo.gif)
+![Demo](./images/videoExplicativo.gif)
