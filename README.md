@@ -10,8 +10,10 @@ Instrucciones:
 4. Ajustar el dropoff con el slider.
 -Para crear otros simplemente se debe seleccionar otra curva y repetir el proceso.
 
+Dejar carpeta en scripts de maya docs, y ejecutar 
 
-
+import curveDeformer
+curveDeformer.launch()
 
 
 Problemas:
