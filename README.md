@@ -13,6 +13,7 @@ Instrucciones:
 
 
 
+
 Problemas:
 
 A lo largo del proceso me he encontrado con diversos problemas.
@@ -40,4 +41,5 @@ A lo largo del proceso me he encontrado con diversos problemas.
 ![UI](./images/ui.png)
 
 Demo de uso:  
-![Demo](./images/videoExplicativo.gif)
+
+![videooExplicativo](https://github.com/user-attachments/assets/66dbe3de-0122-4358-9c4b-4caf1ce0538b)
